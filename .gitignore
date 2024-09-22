@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build-results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+bin/
+obj/
+publish/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# User-specific files
+*.csproj.user
+*.sln.ide
+
+# Rider
+.idea/
